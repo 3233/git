@@ -1,1 +1,2 @@
-git learning lessons
+Git is a distributed version control system.
+Git is free software.

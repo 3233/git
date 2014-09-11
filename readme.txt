@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Git still hard.
 git changes quick
+have more?

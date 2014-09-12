@@ -3,5 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 Git still hard.
-git changes quick
+git changes quick.
 have more?
